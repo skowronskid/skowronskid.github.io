@@ -55,7 +55,28 @@
 
 
 <h2 id="matlab">Matlab</h2>
+<div class="card">
+  <h3>Application for LU decomposition using Crout's method </h3>
+  <p><b>Matlab</b></p>
+  <ul>
+    <li>It's an implementaton of Crout's method for LU matrix decomposition in form of Matlab application</li>
+    <li>Application accepts input of two matrices and solves a matrix equation using LU decomposition </li>
+    <li>Outputs both L and U matrices as well as the solution</li>
+  </ul>
+  <a href="https://github.com/skowronskid/projects/tree/main/Matlab/LU_Crout"><span class="card-link-spanner"></span></a>
+</div>
 
+
+<div class="card">
+  <h3>Jarratt's method</h3>
+  <p><b>Matlab</b></p>
+  <ul>
+    <li>It's an implementaton of Jarrat's method for solving polynomial equations</li>
+    <li>Implementation uses Horner's algorithm to determine derivatives </li>
+    <li>Shows graphs of number of steps required and convergence to solution for points in complex plane. </li>
+  </ul>
+  <a href="https://github.com/skowronskid/projects/tree/main/Matlab/MetodaJarratta"><span class="card-link-spanner"></span></a>
+</div>
 
 
 <h2 id="java">Java</h2>
