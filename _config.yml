@@ -8,8 +8,8 @@ plugins:
 title: Damian Skowroński
 description: Data Science student at WUT
 
-url: https://skowronskid.github.io
-  
+
+
 colot-scheme: auto
 email: skowronskid@outlook.com
 
@@ -20,7 +20,7 @@ platforms:
     link: https://github.com/skowronskid
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: www.linkedin.com/in/skowronski-damian
+    link: https://www.linkedin.com/in/skowronski-damian/
     
     
 navigation:
