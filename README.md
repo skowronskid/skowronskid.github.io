@@ -29,8 +29,19 @@
 
 
 <div class="card">
-  <h3>UK car accidents - unsupervised ml</h3>
-  <p><b>Python, Machine Learning</b></p>
+  <h3>USA census</h3>
+  <p><b>Python, Unsupervised Machine Learning</b></p>
+  <ul>
+    <li>Conducted clustering on the 1990 USA census dataset</li>
+    <li>As a result, we identified 5 groups of types of people</li>
+  </ul>
+  <a href="hhttps://github.com/skowronskid/projects/blob/main/unsupervised_ml/usa_census.ipynb"><span class="card-link-spanner"></span></a>
+</div>
+
+
+<div class="card">
+  <h3>UK car accidents</h3>
+  <p><b>Python, Unsupervised Machine Learning</b></p>
   <ul>
     <li>Given the coordinates of all car accidents in cities and towns reported in UK in years 2000-2016 we grouped them to distinguish between the areas.</li>
     <li>We tried using different methods of clustering to figure out which one of them gave us the best results. </li>
