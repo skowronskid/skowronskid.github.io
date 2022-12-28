@@ -25,23 +25,12 @@ platforms:
     
 navigation:
 
-    - name: Usage
-      link: ./##Teeest
-    - name: Customizing
-      link: ./##projekcik
-#     - name: Customizing Sidebar
-#       link: ./#customizing-sidebar
-#     - name: Navigation
-#       link: ./#navigation
-#     - name: Example
-#       link: ./#example
-#     - name: Stylesheet
-#       link: ./#stylesheet
-#     - name: Credits
-#       link: ./#credits
-#   - name: Sample
-#     link: ./another-page.html
-#     sublist:
-#       - name: Image
-#         link: ./another-page.html#small-image
-
+    - name: Python
+      link: ./##Python
+    - name: R
+      link: ./##R
+    - name: Matlab
+      link: ./##Matlab
+    - name: Java
+      link: ./#Java
+a
