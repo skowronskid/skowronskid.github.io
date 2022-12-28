@@ -68,7 +68,7 @@
     <li>Using Android Studio, we designed an android application that can be used to place markers of places where you can drink beer in Warsaw.</li>
     <li>User can add information to the marker about the place and rate it</li>
     <li>User can filter the placed markers</li>
-    <li>You can see a quick presentation <a href="https://www.youtube.com/watch?v=qd5JLx1BE3o">here</a></li>
+    <li>You can watch a quick presentation <a href="https://www.youtube.com/watch?v=qd5JLx1BE3o">here</a></li>
   </ul>
   <a href="https://github.com/skowronskid/projects/tree/main/Java/Lokalizator_android"><span class="card-link-spanner"></span></a>
 </div>
