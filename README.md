@@ -5,6 +5,17 @@
 
 
 
+<div class="card">
+  <h3>GDP forecast chart</h3>
+  <p><b>Python,R, matplotlib</b></p>
+  <ul>
+    <li>The purpose of the project was to find a graph on the web where the data is presented incorrectly and redesign it.  </li>
+    <li>I found such graph on [The Economist](https://www.economist.com/graphic-detail/2021/10/12/the-imf-warns-that-the-global-economic-recovery-will-be-grossly-uneven)</li>
+    <li>First I redesigned it using ggplot2 and some time later I came back and made it even better using matplotlib. </li>
+  </ul>
+  <a href="https://github.com/skowronskid/projects/blob/main/data_visualisation/GDP_forecasts_chart/Raport.ipynb"><span class="card-link-spanner"></span></a>
+</div>
+
 <h2 id="r">R</h2>
 
 <div class="card">
@@ -38,14 +49,30 @@
     <li>There are interactive plots made using plotly.</li>
     <li>You can visit the site by clicking <a href="https://skowronski.shinyapps.io/Nobel_Prize/">this link</a> </li>
   </ul>
-  <a href="https://github.com/skowronskid/projects/tree/main/data_visualisation/BTC_environment"><span class="card-link-spanner"></span></a>
+  <a href="https://github.com/skowronskid/projects/tree/main/data_visualisation/Nobel_shiny"><span class="card-link-spanner"></span></a>
 </div>
 
 
 
 <h2 id="matlab">Matlab</h2>
 
+
+
 <h2 id="java">Java</h2>
+
+
+<div class="card">
+  <h3>Android application for placing markers on the map of Warsaw.</h3>
+  <p><b>Java, Android Studio</b></p>
+  <ul>
+    <li>Using Android Studio, we designed an android application that can be used to place markers of places where you can drink beer in Warsaw.</li>
+    <li>User can add information to the marker about the place and rate it</li>
+    <li>User can filter the placed markers</li>
+    <li>You can see a quick presentation [here](https://www.youtube.com/watch?v=qd5JLx1BE3o)</li>
+  </ul>
+  <a href="https://github.com/skowronskid/projects/tree/main/Java/Lokalizator_android"><span class="card-link-spanner"></span></a>
+</div>
+
 
 
 
