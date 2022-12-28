@@ -4,6 +4,29 @@
 <h2 id="python">Python</h2>
 
 
+<div class="card">
+  <h3>Chess - predicting number of moves to mate</h3>
+  <p><b>Python, Machine Learning</b></p>
+  <ul>
+    <li>We had a dataset of every possible situation of endgame when on the board there are only two kings and a white rook.The aim was to predict number of moves required to mate.</li>
+    <li>Carried out an in-depth analysis of the possible outcomes (what the situation looks like when there is a draw, mate, 1 move)</li>
+    <li>We compared the prediction results obtained using regression and multilabel classification./li>
+  </ul>
+  <a href="https://github.com/skowronskid/projects/blob/main/supervised_ml/chess_mate/kings_rook_mate.ipynb"><span class="card-link-spanner"></span></a>
+</div>
+
+
+<div class="card">
+  <h3>AutoKeras benchmark</h3>
+  <p><b>Python, AutoKeras</b></p>
+  <ul>
+    <li>Part of a larger project in which we benchmarked AutoML frameworks in a simmilar wat to <a href="https://arxiv.org/abs/1907.00909">this benchmark</a>. </li>
+    <li>In the article, we tried to explain how the AutoKeras framework works and then subjected it to a classification task on 22 datasets</li>
+    <li>Finally, we compare the results with other groups who have worked with FLAML, AutoGluon, AutoPytorch and Autosklearn.</li>
+  </ul>
+  <a href="https://github.com/skowronskid/projects/tree/main/supervised_ml/AutoKeras_benchmark"><span class="card-link-spanner"></span></a>
+</div>
+
 
 <div class="card">
   <h3>GDP forecast chart</h3>
