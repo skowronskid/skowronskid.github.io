@@ -26,10 +26,10 @@ platforms:
 navigation:
 
     - name: Python
-      link: ./#Python
+      link: ./#python
     - name: R
-      link: ./#R
+      link: ./#r
     - name: Matlab
-      link: ./##matlab
+      link: ./#matlab
     - name: Java
       link: ./#java
