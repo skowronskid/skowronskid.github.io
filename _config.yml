@@ -1,4 +1,12 @@
-title: skowronskid's projects
+title: Damian Skowroński
+description: skowronskid's portfolio
+
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 plugins: 
   - jekyll-remote-theme 
+  
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/skowronskid
+
