@@ -10,7 +10,7 @@
   <ul>
     <li>We had a dataset of every possible situation of endgame when on the board there are only two kings and a white rook.The aim was to predict number of moves required to mate.</li>
     <li>Carried out an in-depth analysis of the possible outcomes (what the situation looks like when there is a draw, mate, 1 move)</li>
-    <li>We compared the prediction results obtained using regression and multilabel classification./li>
+    <li>We compared the prediction results obtained using regression and multilabel classification.</li>
   </ul>
   <a href="https://github.com/skowronskid/projects/blob/main/supervised_ml/chess_mate/kings_rook_mate.ipynb"><span class="card-link-spanner"></span></a>
 </div>
@@ -26,6 +26,19 @@
   </ul>
   <a href="https://github.com/skowronskid/projects/tree/main/supervised_ml/AutoKeras_benchmark"><span class="card-link-spanner"></span></a>
 </div>
+
+
+<div class="card">
+  <h3>UK car accidents - unsupervised ml</h3>
+  <p><b>Python, Machine Learning</b></p>
+  <ul>
+    <li>Given the coordinates of all car accidents in cities and towns reported in UK in years 2000-2016 we grouped them to distinguish between the areas.</li>
+    <li>We tried using different methods of clustering to figure out which one of them gave us the best results. </li>
+    <li>The result is a map of the UK with clearly separated urban areas. </li>
+  </ul>
+  <a href="https://github.com/skowronskid/projects/blob/main/unsupervised_ml/urban_uk.ipynb"><span class="card-link-spanner"></span></a>
+</div>
+
 
 
 <div class="card">
