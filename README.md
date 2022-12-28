@@ -13,7 +13,7 @@
   <ul>
     <li>The project consisted of presenting our data in the form of a dashboard. In our case, we chose data from Facebook Messenger.</li>
     <li>We created the dashboard as a shiny website. Most of the graphs are made with plotly, and are interactive.</li>
-    <li>You can visit it by clicking <a href=https://skowronski.shinyapps.io/messenger/>this link</a> (you might have to wait a couple seconds becasuse the data is loaded from json files). </li>
+    <li>You can visit it by clicking <a href="https://skowronski.shinyapps.io/messenger/">this link</a> (you might have to wait a couple seconds becasuse the data is loaded from json files). </li>
   </ul>
   <a href="https://github.com/skowronskid/projects/tree/main/data_visualisation/FB_shiny"><span class="card-link-spanner"></span></a>
 </div>
@@ -24,10 +24,23 @@
   <ul>
     <li>The task of the project was to present something that has a negative impact on the environment in the form of a poster. In our case it was BTC.</li>
     <li>Using the data we found online we made plots using ggplot2 and exported them as vector images.</li>
-    <li>We arranged the plots with texts regarding in poster's form. </li>
+    <li>We arranged the plots with texts regarding in poster's form using Inkscape. </li>
   </ul>
   <a href="https://github.com/skowronskid/projects/tree/main/data_visualisation/BTC_environment"><span class="card-link-spanner"></span></a>
 </div>
+
+
+<div class="card">
+  <h3>Nobel Prize laureates dashboard</h3>
+  <p><b>R, shiny</b></p>
+  <ul>
+    <li>It's a dashboard of Noble Prize laureates using the data from <a href="https://www.kaggle.com/datasets/imdevskp/nobel-prize">Kaggle</a></li>
+    <li>There are interactive plots made using plotly.</li>
+    <li>You can visit the site by clicking <a href="https://skowronski.shinyapps.io/Nobel_Prize/">this link</a> </li>
+  </ul>
+  <a href="https://github.com/skowronskid/projects/tree/main/data_visualisation/BTC_environment"><span class="card-link-spanner"></span></a>
+</div>
+
 
 
 <h2 id="matlab">Matlab</h2>
