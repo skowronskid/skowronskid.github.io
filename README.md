@@ -1,6 +1,7 @@
 # Projects:
 
-## Python
+
+<h2 id="python">Python</h2>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisis magna etiam tempor orci eu lobortis elementum nibh tellus. Vel quam elementum pulvinar etiam. Velit dignissim sodales ut eu sem integer. Non curabitur gravida arcu ac tortor dignissim convallis aenean. Massa id neque aliquam vestibulum morbi blandit cursus risus at. Mattis enim ut tellus elementum. Ipsum dolor sit amet consectetur adipiscing elit. Et malesuada fames ac turpis egestas sed. Aliquet risus feugiat in ante metus dictum. Lobortis mattis aliquam faucibus purus in massa tempor nec feugiat.
 
@@ -14,7 +15,8 @@ Arcu cursus euismod quis viverra nibh cras. Egestas tellus rutrum tellus pellent
 
 
 
-## R
+
+<h2 id="r">R</h2>
 
 <div class="card">
   <h3>Housing Price Prediction</h3>
@@ -26,7 +28,8 @@ Arcu cursus euismod quis viverra nibh cras. Egestas tellus rutrum tellus pellent
   <a href="https://github.com/skowronskid/projects/tree/main/data_visualisation/FB_shiny"><span class="card-link-spanner"></span></a>
 </div>
 
-## Matlab
+
+<h2 id="matlab">Matlab</h2>
 
 <h2 id="java">Java</h2>
 
