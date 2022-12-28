@@ -1,12 +1,23 @@
-title: Damian Skowroński
-description: skowronskid's portfolio
-
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 plugins: 
   - jekyll-remote-theme 
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
   
+title: Damian Skowroński
+description: skowronskid's portfolio
+
+  
+colot-scheme: dark
+email: vbhvvikas@gmail.com
+
+
 platforms:
-  - name: github.com/skowronskid
+  - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/skowronskid
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: www.linkedin.com/in/skowronski-damian
 
