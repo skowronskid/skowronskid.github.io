@@ -6,11 +6,11 @@ plugins:
   - jemoji
   
 title: Damian Skowroński
-description: skowronskid's portfolio
+description: Data Science student at WUT
 
   
 colot-scheme: dark
-email: vbhvvikas@gmail.com
+email: skowronskid@outlook.com
 
 
 platforms:
@@ -20,4 +20,29 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: www.linkedin.com/in/skowronski-damian
+    
+    
+# navigation:
+#   - name: Home Page
+#     link: ./
+#     sublist:
+#       - name: Usage
+#         link: ./#usage
+#       - name: Customizing
+#         link: ./#customizing
+#       - name: Customizing Sidebar
+#         link: ./#customizing-sidebar
+#       - name: Navigation
+#         link: ./#navigation
+#       - name: Example
+#         link: ./#example
+#       - name: Stylesheet
+#         link: ./#stylesheet
+#       - name: Credits
+#         link: ./#credits
+#   - name: Sample
+#     link: ./another-page.html
+#     sublist:
+#       - name: Image
+#         link: ./another-page.html#small-image
 
