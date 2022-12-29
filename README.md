@@ -5,7 +5,7 @@
 
 <div class="card">
   <h3>#SUPERVISION_HACK hackathon</h3>
-  <p><b>Python</b></p>
+  <p><b>Python, Web Scraping, Natural Language Processing</b></p>
   <ul>
     <li>The task of the hackathon was to use webscraping to download KIID documents and then extract the information needed from them and present it in a structured form</li>
     <li>The main part of the task was to find parts of the text using regular expressions and fuzzy matching </li>
