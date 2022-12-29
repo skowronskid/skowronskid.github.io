@@ -3,6 +3,18 @@
 
 <h2 id="python">Python</h2>
 
+<div class="card">
+  <h3>#SUPERVISION_HACK hackathon</h3>
+  <p><b>Python</b></p>
+  <ul>
+    <li>The task of the hackathon was to use webscraping to download KIID documents and then extract the information needed from them and present it in a structured form</li>
+    <li>The main part of the task was to find parts of the text using regular expressions and fuzzy matching </li>
+    <li>The next part of the task involved creating a Bag of Words model.</li>
+    <li>We came third in this /li>
+  </ul>
+  <a href="https://github.com/skowronskid/projects/blob/main/supervised_ml/chess_mate/kings_rook_mate.ipynb"><span class="card-link-spanner"></span></a>
+</div>
+
 
 <div class="card">
   <h3>Chess - predicting number of moves to mate</h3>
