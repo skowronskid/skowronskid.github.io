@@ -12,7 +12,7 @@
     <li>Another part of the task involved creating a Bag of Words model.</li>
     <li>We came third in this competition</li>
   </ul>
-  <a href="https://github.com/skowronskid/projects/blob/main/supervised_ml/chess_mate/kings_rook_mate.ipynb"><span class="card-link-spanner"></span></a>
+  <a href="https://github.com/wojciechkosiuk/Hackathon2k22"><span class="card-link-spanner"></span></a>
 </div>
 
 
