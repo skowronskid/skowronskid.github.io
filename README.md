@@ -5,7 +5,7 @@
 <h2 id="python">Python</h2>
 
 <div class="card">
-  <a href="https://github.com/skowronskid/fitnesiac"><h3>#Fitnesiac - gym tracking app</h3></a>
+  <a href="https://github.com/skowronskid/fitnesiac"><h3>Fitnesiac - gym tracking app</h3></a>
   <p><b>Python, Django</b></p>
   <ul>
     <li>A website made using django. A user can create an account to share their gym workouts and comment progress of other users.</li>
