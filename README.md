@@ -1,20 +1,3 @@
-<head>
-  <script>
-  // Get the inner link element
-  const innerLink = document.querySelector('.inner');
-
-  // Add an event listener to prevent the default behavior
-  innerLink.addEventListener('click', (event) => {
-    event.stopPropagation(); // Stop the event from propagating
-    event.preventDefault(); // Prevent the default behavior
-    window.location.href = event.target.href; // Navigate to the inner link
-  });
-</script>
-</head>
-
-
-
-
 # Projects:
 
 
