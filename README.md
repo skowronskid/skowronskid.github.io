@@ -1,6 +1,5 @@
-# Projects:
-
-<script>
+<head>
+  <script>
   // Get the inner link element
   const innerLink = document.querySelector('.inner');
 
@@ -11,6 +10,12 @@
     window.location.href = event.target.href; // Navigate to the inner link
   });
 </script>
+</head>
+
+
+
+
+# Projects:
 
 
 
