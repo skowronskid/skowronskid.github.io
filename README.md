@@ -5,15 +5,13 @@
 <h2 id="python">Python</h2>
 
 <div class="card">
-  <h3>#Fitnesiac - gym tracking app</h3>
+  <a href="https://github.com/skowronskid/fitnesiac"><h3>#Fitnesiac - gym tracking app</h3></a>
   <p><b>Python, Django</b></p>
   <ul>
     <li>A website made using django. A user can create an account to share their gym workouts and comment progress of other users.</li>
     <li>Users can follow each other to see each other's posts, or they can tag a post to make it visible to everyone.</li>
     <li>The user can also discover new exercises for specific body parts thanks to gifs showing how to perform them.</li>
-    <li>You can visit the website by clicking on <a class="inner" href="https://skowronski.pythonanywhere.com">this link</a> and logging into a test account ( <em>beta | 1234!@#$ </em> ) </li>
   </ul>
-  <a href="https://github.com/skowronskid/fitnesiac"><span class="card-link-spanner"></span></a>
 </div>
 
 
