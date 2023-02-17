@@ -40,8 +40,8 @@
 
 
 <div class="card">
-  <a href="https://github.com/skowronskid/projects/tree/main/supervised_ml/AutoKeras_benchmark"><h3>AutoKeras benchmark</h3>
-  <p><b>Python, AutoKeras</b></p></a>
+  <a href="https://github.com/skowronskid/projects/tree/main/supervised_ml/AutoKeras_benchmark"><h3>AutoKeras benchmark</h3></a>
+  <p><b>Python, AutoKeras</b></p>
   <ul>
     <li>Part of a larger project in which we benchmarked AutoML frameworks in a simmilar way to <a href="https://arxiv.org/abs/1907.00909">this benchmark</a>. </li>
     <li>In the article, we tried to explain how the AutoKeras framework works and then subjected it to a classification task on 22 datasets</li>
