@@ -17,7 +17,7 @@
 
 
 <div class="card">
-  <a href="https://github.com/wojciechkosiuk/Hackathon2k22"><<h3>#SUPERVISION_HACK hackathon</h3></a>
+  <a href="https://github.com/wojciechkosiuk/Hackathon2k22"><h3>#SUPERVISION_HACK hackathon</h3></a>
   <p><b>Python, Web Scraping, Natural Language Processing</b></p>
   <ul>
     <li>The task of the hackathon was to use webscraping to download KIID documents and then extract the information needed from them and present it in a structured form</li>
